@@ -135,8 +135,6 @@ import UIKit
     
     
     
-    
-    
     private func updatePlaceholder() {
         placeholderLabel.text = placeholder
         placeholderLabel.textColor = placeholderColor
