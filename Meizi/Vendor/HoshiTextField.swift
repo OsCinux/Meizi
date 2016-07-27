@@ -132,6 +132,9 @@ import UIKit
         activeBorderLayer.backgroundColor = borderActiveColor?.CGColor
     }
     
+    
+    
+    
     private func updatePlaceholder() {
         placeholderLabel.text = placeholder
         placeholderLabel.textColor = placeholderColor
